@@ -3,7 +3,7 @@ import anthropic
 
 st.set_page_config(
     page_title="Smit — Financial + ESG Diagnostic",
-    page_icon="S",
+    page_icon="smit_icon.png",
     layout="centered"
 )
 
